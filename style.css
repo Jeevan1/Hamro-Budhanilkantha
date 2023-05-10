@@ -1,0 +1,31 @@
+.card a{
+    color: #000;
+    text-decoration: none;
+}
+
+.h6 a{
+    text-decoration: none;
+    color: #000;
+}
+.card a:hover{
+    color: rgb(233, 0, 0);
+}
+
+.h6 a:hover{
+    color: rgb(61, 61, 166);
+}
+.list-group-item a{
+    text-decoration: none;
+    color: #000;
+}
+.list-group-item a:hover{
+    color: #fff;
+
+}
+@media(max-width:720px){
+    #carouselExampleIndicators img{
+        height: 600px;
+        width: 200px;
+    }
+   
+}
